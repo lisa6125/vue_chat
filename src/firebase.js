@@ -7,7 +7,7 @@ import 'firebase/storage'
 import { ref, onUnmounted, computed } from 'vue'
 
 firebase.initializeApp({
-  apiKey: process.env.VUE_APP_API,
+  apiKey: "AIzaSyAC5d_S5oYpXC7O_IbdnScp6CbtigNVvKA",
   authDomain: "vue-chat-app-46e0c.firebaseapp.com",
   projectId: "vue-chat-app-46e0c",
   storageBucket: "vue-chat-app-46e0c.appspot.com",
